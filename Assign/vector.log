@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/Debian) (preloaded format=pdflatex 2024.9.13)  25 SEP 2024 06:45
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/Debian) (preloaded format=pdflatex 2024.9.13)  25 SEP 2024 11:10
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1139,51 +1139,38 @@ xmi/m/it/12 B []$ \OT1/txr/m/n/12 and $\OML/txmi/m/it/12 C []$\OT1/txr/m/n/12 .
  Hence
  []
 
-
-Overfull \hbox (14.54509pt too wide) in paragraph at lines 111--112
-[]\OT1/txr/m/n/12 Find the par-tic-u-lar so-lu-tion of the dif-fer-en-tial equa
--tion $2\OML/txmi/m/it/12 ye[]dx \OT1/txr/m/n/12 + [] \OML/txmi/m/it/12 dy \OT1
-/txr/m/n/12 =
- []
-
 [1
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
-Overfull \hbox (43.80777pt too wide) in paragraph at lines 142--146
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2]
+Overfull \hbox (43.80777pt too wide) in paragraph at lines 142--145
 []\OT1/txr/m/n/12 If f$[]$=$[]$ []. 
  []
 
 
-Overfull \hbox (70.36086pt too wide) in paragraph at lines 162--163
-[]\OT1/txr/m/n/12 Using prop-er-ties of de-ter-mi-nants, prove that $[]$=$2\OML
-/txmi/m/it/12 xyz [][]$ 
- []
-
-[2]
-Overfull \hbox (15.50992pt too wide) in paragraph at lines 174--175
+Overfull \hbox (15.50992pt too wide) in paragraph at lines 173--174
 []\OT1/txr/m/n/12 A re-tired per-son wants to in-vest an amount of \U/tfrupee/m
 /n/12 |$\OT1/txr/m/n/12 50\OML/txmi/m/it/12 ; \OT1/txr/m/n/12 000$. His bro-ker
  recom-mands
  []
 
-
-Overfull \hbox (2.89067pt too wide) in paragraph at lines 189--190
+[3]
+Overfull \hbox (2.89067pt too wide) in paragraph at lines 188--189
 \OT1/txr/m/n/12 pos-i-tive in-te-gers. Let $\OML/txmi/m/it/12 X$ \OT1/txr/m/n/1
 2 de-note the largest of the three num-bers ob-tained.Find
  []
 
-[3] (./vector.aux)
+[4] (./vector.aux)
 Package rerunfilecheck Info: File `vector.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 30333 strings out of 476091
- 599308 string characters out of 5794081
+ 30334 strings out of 476091
+ 599314 string characters out of 5794081
  1870330 words of memory out of 5000000
  50156 multiletter control sequences out of 15000+600000
  533196 words of font info for 85 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 102i,12n,104p,520b,1026s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 102i,18n,104p,497b,1030s stack positions out of 10000i,1000n,20000p,200000b,200000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texliv
 e/texmf-dist/fonts/type1/public/txfonts/rtxmi.pfb></usr/share/texlive/texmf-dis
 t/fonts/type1/public/txfonts/rtxr.pfb></usr/share/texlive/texmf-dist/fonts/type
@@ -1191,10 +1178,10 @@ t/fonts/type1/public/txfonts/rtxr.pfb></usr/share/texlive/texmf-dist/fonts/type
 txfonts/txex.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/txsy
 .pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/shar
 e/texlive/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on vector.pdf (3 pages, 143668 bytes).
+Output written on vector.pdf (4 pages, 144227 bytes).
 PDF statistics:
- 98 PDF objects out of 1000 (max. 8388607)
- 78 compressed objects within 1 object stream
- 36 named destinations out of 1000 (max. 500000)
+ 105 PDF objects out of 1000 (max. 8388607)
+ 84 compressed objects within 1 object stream
+ 37 named destinations out of 1000 (max. 500000)
  13 words of extra memory for PDF output out of 10000 (max. 10000000)
 
